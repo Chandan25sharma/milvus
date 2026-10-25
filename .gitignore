@@ -134,3 +134,8 @@ docs/plans/
 
 # agent context
 .context/
+.env
+.dockerinore
+claude.md
+.owners
+.readme_cn.mc
